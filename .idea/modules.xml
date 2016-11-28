@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/python project/HeadFirstPython/.idea/HeadFirstPython.iml" filepath="D:/python project/HeadFirstPython/.idea/HeadFirstPython.iml" />
+      <module fileurl="file://D:/python project/madking0512/.idea/MadKing.iml" filepath="D:/python project/madking0512/.idea/MadKing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../madking0913/Madking/.idea/Madking.iml" filepath="$PROJECT_DIR$/../../madking0913/Madking/.idea/Madking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OMS.iml" filepath="$PROJECT_DIR$/.idea/OMS.iml" />
+    </modules>
+  </component>
+</project>
