@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb57621-12e0-4052-87b2-c2614de22978" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/login002.html" />
       <change type="MODIFICATION" beforePath="D:/python project/madking0512/.idea/workspace.xml" afterPath="D:/python project/madking0512/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="D:/python project/madking0512/statics/js/pace.min.js" afterPath="D:/python project/madking0512/statics/js/pace.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/OMS.iml" afterPath="$PROJECT_DIR$/.idea/OMS.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/form.py" afterPath="$PROJECT_DIR$/asset/form.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/models.py" afterPath="$PROJECT_DIR$/asset/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/views.py" afterPath="$PROJECT_DIR$/asset/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oms/mysql.py" afterPath="$PROJECT_DIR$/oms/mysql.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oms/settings.py" afterPath="$PROJECT_DIR$/oms/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oms/urls.py" afterPath="$PROJECT_DIR$/oms/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oms/views.py" afterPath="$PROJECT_DIR$/oms/views.py" />
     </list>
     <ignored path="OMS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -504,8 +491,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2860906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
